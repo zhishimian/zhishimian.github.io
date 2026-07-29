@@ -1,2 +1,0 @@
-# zhishimian.github.io
-web
