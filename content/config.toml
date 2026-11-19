@@ -1,0 +1,67 @@
+[site]
+title = "幽默知识面"
+description = "个人网页"
+favicon = "/avatar-favicon.png"
+last_updated = "November 18, 2025"
+
+[author]
+name = "幽默知识面"
+title = "地理信息科学 -> 测绘工程研0"
+institution = "南京师范大学 -> 武汉大学"
+avatar = "/1785210331215.png"
+
+[social]
+email = "3140582238@qq.com"
+location = "南京，中国"
+location_url = ""
+location_details = []
+google_scholar = ""
+orcid = ""
+github = "https://github.com/zhishimian"
+linkedin = ""
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["zh"]
+default_locale = "zh"
+mode = "fixed"
+fixed_locale = "zh"
+persist = false
+switcher = false
+
+[i18n.labels]
+zh = "中文"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Research"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Blog"
+type = "page"
+target = "blog"
+href = "/blog"
+
+[[navigation]]
+title = "Discussion"
+type = "page"
+target = "discussion"
+href = "/discussion"

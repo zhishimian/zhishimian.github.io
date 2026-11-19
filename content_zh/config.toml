@@ -1,0 +1,42 @@
+[site]
+title = "幽默知识面"
+description = "个人网页"
+last_updated = "2026年10月17日"
+
+[author]
+name = "幽默知识面"
+title = "地理信息科学 -> 测绘工程研0"
+institution = "南京师范大学 -> 武汉大学"
+
+[social]
+location = "南京，中国"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "科研"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "博客"
+type = "page"
+target = "blog"
+href = "/blog"
+
+[[navigation]]
+title = "讨论"
+type = "page"
+target = "discussion"
+href = "/discussion"

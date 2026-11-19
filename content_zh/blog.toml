@@ -1,0 +1,3 @@
+type = "text"
+title = "博客"
+source = "blog.md"
